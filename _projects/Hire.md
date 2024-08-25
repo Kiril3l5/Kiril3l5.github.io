@@ -20,6 +20,6 @@ If you believe that your company has open positions that require well above-aver
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+> ““Train people well enough so they can leave. Treat them well enough so they don't have to.” – Sir Richard Branson. 
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
