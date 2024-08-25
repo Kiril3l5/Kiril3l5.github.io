@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Hire'
+subtitle: 'Laser-focused precision on autonomous industry'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Best candidates you ever interviewed, no wasted time guaranteed.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
