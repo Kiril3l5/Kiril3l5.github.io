@@ -30,7 +30,7 @@
 	}
 
 	p {
-		color: rgba($hero-text-color, 0.8);
+		color: rgba($hero-text-color, 1);
 
 		@include mq(tabletp) {
 			margin-top: 25px;
