@@ -2,13 +2,14 @@
 title: 'Be hired'
 subtitle: 'Laser-focused precision on autonomous industry'
 date: 2018-06-30 00:00:00
-description: Best rates guaranteed for those striving for excellence.
+description: Only meaningful opportunities. 
+Best rates for those striving for excellence.
 featured_image: '/images/demo/be-hired.jpg'
 ---
 
 ![](/images/demo/be-hired-2.jpg)
 
-## Demo content
+## A stepping stone to a future success
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 

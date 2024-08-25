@@ -2,8 +2,7 @@
 title: 'Hire'
 subtitle: 'Laser-focused precision on autonomous industry'
 date: 2018-06-30 00:00:00
-description: 
-Best candidates you ever interviewed.
+description: Best candidates you ever interviewed.
 No wasted time, guaranteed.
 featured_image: '/images/demo/hire.jpg'
 ---
