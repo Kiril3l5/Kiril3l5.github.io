@@ -10,8 +10,6 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -21,7 +19,7 @@ footer_settings:
   footer_tagline: Autonomy Heroes LLC
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.6
 
 post_settings:
   grid_spacing: 10
