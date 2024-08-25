@@ -19,7 +19,8 @@ We pride ourselves on taking good care of the candidates who come to us seeking 
 If you believe that your company has open positions that require well above-average talent, reach out to us by filling out the form below. 
 
 
-> “Train people well enough so they can leave. Treat them well enough so they don't have to.” 
-– Sir Richard Branson. 
+> “Train people well enough so they can leave. Treat them well enough so they don't have to.”
+
+– Sir Richard Branson
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get In Touch</a>
