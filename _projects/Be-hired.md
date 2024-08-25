@@ -2,8 +2,7 @@
 title: 'Be hired'
 subtitle: 'Laser-focused precision on autonomous industry'
 date: 2018-06-30 00:00:00
-description: Only meaningful opportunities. 
-Best rates for those striving for excellence.
+description: Only meaningful opportunities. Best rates for those striving for excellence.
 featured_image: '/images/demo/be-hired.jpg'
 ---
 
