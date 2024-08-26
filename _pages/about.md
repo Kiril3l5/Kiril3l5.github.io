@@ -16,7 +16,5 @@ Our solution was founding Autonomy Heroes. Here is why we are different:
 * We are focused. We know how to recognize the perfect candidate. We know the right attitude and the skills required to do the job. Why so confident? Because we are constantly looking for future colleagues we can rely on. We are not trying to find a name that loosely fits a description and call it a day. 
 * We are ruthless. All interviewers work in the industry, meaning our acceptance bar is higher than that of general recruiters. We do not tolerate laziness and tardiness. Instead, we encourage continuous learning and development. We find people ready to give everything to the role, exceed expectations, and get promoted. No exceptions. 
 
-## Get In Touch
-
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get In Touch</a>
