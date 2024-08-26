@@ -1,29 +1,21 @@
 ---
 title: About us
 subtitle: Autonomous future awaits. 
-description: We are here to create a perfect synergy of business goals and human resources with both striving for excellence. 
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+## Why Autonomous Heroes?
 
-We've packed Personal full of powerful features to help showcase your work:
+Founded by industry professionals with experience in OEMs and startups, we focus solely on automotive engineering roles, emphasizing autonomous driving features integration and validation. 
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+We established this agency after becoming disappointed in the dropping quality of candidates we were receiving from various suppliers and their outrageous markup rates. We spent countless hours training people who were not interested in the job and were not compensated fairly. 
+
+Our solution was founding Autonomy Heroes. Here is why it is different: 
+
+* We are lean. There is no physical office, and there are no fancy dinners. Even this site is hosted for free using GitHub Pages. What does this mean? Our markup is lower, and employee compensation is higher than our competition's. 
+* We are focused. We know how to recognize the perfect candidate. We know the right attitude and the skills required to do the job. Why so confident? Because we are constantly looking for future colleagues we can rely on. We are not trying to find a name that loosely fits a description and call it a day. 
+* We are ruthless. All interviewers work in the industry, meaning our acceptance bar is higher than that of general recruiters. We do not tolerate laziness and tardiness. Instead, we encourage continuous learning and development. We find people ready to give everything to the role, exceed expectations, and get promoted. No exceptions. 
+
 
 ## Get In Touch
 
