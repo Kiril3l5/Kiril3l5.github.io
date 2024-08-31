@@ -4,4 +4,4 @@ subtitle: We are not in a game of numbers but quality. Please review both partie
 featured_image: /images/demo/contact.jpg
 ---
 
-{% include contact-form.html %}
+{% include contact-form2.html %}
