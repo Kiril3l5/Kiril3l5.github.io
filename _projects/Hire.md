@@ -21,4 +21,4 @@ If you believe that your company has open positions that require well above-aver
 
 – Sir Richard Branson
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get In Touch</a>
+<a href="https://https://autonomyheroes.com/hire" class="button button--large">Get In Touch</a>
