@@ -17,4 +17,4 @@ Our solution was founding Autonomy Heroes. Here is why we are different:
 * We are ruthless. All interviewers work in the industry, meaning our acceptance bar is higher than that of general recruiters. We do not tolerate laziness and tardiness. Instead, we encourage continuous learning and development. We find people ready to give everything to the role, exceed expectations, and get promoted. No exceptions. 
 
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get In Touch</a>
+# a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get In Touch</a>
