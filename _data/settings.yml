@@ -14,8 +14,8 @@ menu_settings:
       url: '/about'
     - title: 'Hire'
       url: '/hire'
-    - title: 'Be Hired'
-      url: '/be_hired'    
+    - title: 'Get Hired'
+      url: '/get-hired'    
 
 footer_settings:
   footer_tagline: Autonomy Heroes LLC

@@ -1,5 +1,5 @@
 ---
-title: 'Be hired'
+title: 'Get hired'
 subtitle: 'Laser-focused precision on autonomous industry'
 date: 2018-06-30 00:00:00
 description: Only meaningful opportunities. Best rates for those striving for excellence.
