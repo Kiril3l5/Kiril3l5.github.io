@@ -23,4 +23,4 @@ If you believe you have these qualities and are ready to outperform the best pla
 
 —Pelé
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get In Touch</a>
+<a href="https://autonomyheroes.com/be_hired" class="button button--large">Get In Touch</a>
