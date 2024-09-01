@@ -1,6 +1,6 @@
 ---
 title: Hire
-subtitle: We are not in a game of numbers but quality. Please review both parties' expectations before submitting the form. 
+subtitle: We are not in a game of numbers but quality. Best talent, high expectations! 
 featured_image: /images/demo/contact.jpg
 ---
 
