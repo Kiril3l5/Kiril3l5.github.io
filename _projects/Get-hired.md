@@ -19,8 +19,8 @@ In turn, we deliver the best compensation rates in the industry for comparable p
 If you believe you have these qualities and are ready to outperform the best players on the market, reach out to us by filling out the form below. 
 
 
-> “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”
+> ‘May the Force be with you’ is charming but it’s not important. What’s important is that you become the Force – for yourself and perhaps for other people.
 
-—Pelé
+— Harrison Ford
 
 <a href="https://autonomyheroes.com/get-hired" class="button button--large">Get In Touch</a>
