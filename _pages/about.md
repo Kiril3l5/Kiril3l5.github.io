@@ -4,7 +4,7 @@ subtitle: Autonomous future awaits.
 featured_image: /images/demo/about.jpg
 ---
 
-## Why Autonomous Heroes?
+## Why Autonomy Heroes?
 
 Founded by automotive industry professionals with experience in OEMs and startups, we focus solely on automotive engineering roles, emphasizing autonomous driving features integration and validation. 
 

@@ -1,6 +1,6 @@
 ---
 title: Get hired
-subtitle: High rates, challenging roles, for those striving for excellence. 
+subtitle: High rates, challenging roles, for those striving for excellence! 
 featured_image: /images/demo/contact.jpg
 ---
 
