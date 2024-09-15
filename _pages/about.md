@@ -16,4 +16,4 @@ Our solution was starting Autonomy Heroes. Here is why we are different:
 * We are determined. Our interviewers work in the industry, our acceptance bar is higher than that of general recruiters. We do not tolerate laziness and tardiness. We find people ready to put in the hours, exceed expectations, and get promoted. No exceptions. 
 * We are lean. There is no physical office, and there are no fancy dinners. Even this website is hosted for free using GitHub Pages. What does this mean? Our markup is lower, and employee compensation is significantly higher than our competition's or “industry standard.” 
 
-Above sounds right to you? – Reach out today to <a href="https://autonomyheroes.com/hire">hire</a> or get hired!
+Above sounds right to you? – Reach out today to <a href="https://autonomyheroes.com/hire">hire</a> or <a href="https://autonomyheroes.com/get-hired">get hired</a>!
