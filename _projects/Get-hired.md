@@ -10,13 +10,11 @@ featured_image: '/images/demo/be-hired.jpg'
 
 ## A stepping stone to success
 
-This is not a typical agency. We only look for candidates who are certain that they can achieve far more than their current position allows them to. This means that you are at that stage of your life where career comes first. You will take the most challenging assignments and spend countless hours after work learning and getting better. Sick hours are a useless benefit to you as your organism is always healthy and caffeinated to perform at a level unheard of before. You will guide your peers. You will outshine seasoned employees. You will become an absolute corporate weapon.
+This is not a typical agency. We seek candidates who are confident in their ability to achieve far more than their current position allows. This means you’ve reached a stage in your life where your career comes first. You take on the most challenging assignments and spend countless hours after work learning, growing, and improving. Sick days are a useless benefit to you — your body remains healthy, and your mind is always caffeinated, ready to perform at an extraordinary level. You guide your peers, outshine seasoned employees, and evolve into an unstoppable corporate force.
 
+In return, we secure the best compensation rates in the industry for comparable positions. We make it crystal clear to employers that if they decide to hire you, they are not bringing in someone to follow a job description and do the bare minimum. You are there to exceed expectations, maximize value for shareholders, and set new records for promotions. You are there to earn at a level that enables you to achieve financial goals — including affording a property in today's challenging economy.
 
-In turn, we deliver the best compensation rates in the industry for comparable positions. We make it crystal clear if they decide to hire you, that you are not there to follow the job description doing the bare minimum. You are there to exceed all expectations and provide the most value to shareholders. You are there to set a company record for promotion rate. You are there to earn enough to actually afford a property in this economy.
-
-
-If you believe you have these qualities and are ready to outperform the best players on the market, reach out to us by filling out the form below. 
+If you believe you possess these qualities and are ready to outperform the top players in the market, reach out by filling out the form below.
 
 
 > ‘May the Force be with you’ is charming but it’s not important. What’s important is that you become the Force – for yourself and perhaps for other people.
