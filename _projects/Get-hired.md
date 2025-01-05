@@ -8,7 +8,7 @@ featured_image: '/images/demo/be-hired.jpg'
 
 ![](/images/demo/be-hired-2.jpg)
 
-## A stepping stone to success
+## A stepping stone to success.
 
 This is not a typical agency. We seek candidates who are confident in their ability to achieve far more than their current position allows. This means you’ve reached a stage in your life where your career comes first. You take on the most challenging assignments and spend countless hours after work learning, growing, and improving. Sick days are a useless benefit to you — your body remains healthy, and your mind is always caffeinated, ready to perform at an extraordinary level. You guide your peers, outshine seasoned employees, and evolve into an unstoppable corporate force.
 
